@@ -19,6 +19,10 @@ RATE = 48000
 RECORDING_DURATION = 10  # 7 seconds
 UPLOAD_INTERVAL = 30  # 30 seconds
 
+portaudio_path = os.environ.get("PORTAUDIO_PATH")
+
+# Now you can use portaudio_path to access the GitHub repository URL.
+
 # Get the directory where the current script is located
 script_directory = os.path.dirname(os.path.abspath(__file__))
 
