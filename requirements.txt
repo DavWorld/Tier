@@ -1,5 +1,4 @@
-git+https://github.com/PortAudio/portaudio.git#egg=portaudio
-blinker==1.6.2
+https://github.com/jikild/Tier.gitblinker==1.6.2
 cachetools==5.3.1
 certifi==2023.7.22
 charset-normalizer==3.2.0
