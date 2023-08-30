@@ -1,4 +1,4 @@
-git+https://github.com/jikild/PortaudioLib.git
+portaudio19-dev
 cachetools==5.3.1
 certifi==2023.7.22
 charset-normalizer==3.2.0
