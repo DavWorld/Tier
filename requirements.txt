@@ -1,4 +1,4 @@
-git https://github.com/PortAudio/portaudio.git#egg=portaudio
+git+https://github.com/PortAudio/portaudio.git#egg=portaudio
 blinker==1.6.2
 cachetools==5.3.1
 certifi==2023.7.22
