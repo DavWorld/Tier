@@ -1,4 +1,9 @@
-portaudio19-dev
+libasound-dev==1.2.4
+portaudio19-dev==19.6
+libportaudio2==19.6
+libportaudiocpp0==19.6.0
+ffmpeg==5.0.2
+libav-tools==58.130.100
 cachetools==5.3.1
 certifi==2023.7.22
 charset-normalizer==3.2.0
